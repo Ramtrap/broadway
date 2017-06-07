@@ -3,7 +3,21 @@
   text-align: center;
 }
 
+.top_page {
+  background-image:url("../images/the-flatiron-building.png");
+}
+
+.top_nav {
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
 #footer {
-  color: red;
   text-align: left;
 }
