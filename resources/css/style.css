@@ -1,6 +1,9 @@
 * {
   font-family: Helvetica, sans-serif;
-  text-align: center;
+}
+
+.main {
+    text-align: center;
 }
 
 .top_page {
@@ -37,7 +40,7 @@ h3, #break {
   color: white;
 }
 
-#footer {
+.footer {
   text-align: left;
   font-size: 11px;
   color: white;
