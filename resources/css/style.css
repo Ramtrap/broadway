@@ -18,6 +18,28 @@ h1 {
   color: white;
 }
 
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3, #break {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.info {
+  font-size: 14px;
+}
+
+#break {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
 #footer {
   text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
